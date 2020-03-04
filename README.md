@@ -1,3 +1,3 @@
 # coursePython
 
-My first Python course.
+👨‍🎓 My first Python course.
